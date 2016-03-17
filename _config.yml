@@ -1,7 +1,7 @@
 name: Healthy Agency
 favicon: null
-layout_spectrum: 0.5788019963074476
-typography_spectrum: 0.8943383651785553
+layout_spectrum: 0.85211
+typography_spectrum: 0.47513
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#a06292'
+    - '#7ccae5'
+    - '#fd868c'
+    - '#4d85b2'
   brandStrength: 0.9811674181837589
-  lightness: 0.47782511077821255
+  lightness: 1
   saturation: 0.25131718069314957
-  rhythmicContrast: 0.29143234621733427
+  rhythmicContrast: 0.5
 purpose: []
